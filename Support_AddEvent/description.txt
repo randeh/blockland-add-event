@@ -1,0 +1,3 @@
+Title: AddEvent
+Author: Randy
+Creates an addEvent method for BuildMacroSO
